@@ -1,4 +1,4 @@
-// AUTHOR: Peeyush yadav
+// AUTHOR:  Peeyush yadav
 #include <bits/stdc++.h>
 #define MAX 200010
 using namespace std;
