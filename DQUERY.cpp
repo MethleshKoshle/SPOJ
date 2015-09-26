@@ -19,10 +19,10 @@ void fast(){
 		#define trace3(x,y,z)
 	#endif
 	
-	#define fi 						first
-	#define se 						second
-	#define mp 						make_pair
-	#define pb(x) 					push_back(x)
+	#define fi 			first
+	#define se 			second
+	#define mp 			make_pair
+	#define pb(x) 			push_back(x)
 	#define s(x)                    scanf("%d",&x);
 	#define sl(x)                   scanf("%lld",&x);
 	#define p(x)                    printf("%d\n",x);
